@@ -13,8 +13,8 @@
     "pages:deploy": "astro build && wrangler pages deploy ./dist"
   },
   "dependencies": {
-    "@astrojs/check": "^0.3.4",
-    "@astrojs/cloudflare": "^8.0.1",
+    "@astrojs/check": "^0.5.10",
+    "@astrojs/cloudflare": "^10.0.1",
     "@astrojs/mdx": "^2.0.3",
     "@astrojs/rss": "^4.0.1",
     "@astrojs/sitemap": "^3.0.4",
